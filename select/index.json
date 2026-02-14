@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ソウルズ（feat. suis from ヨルシカ）",
+  "base_artist": "WurtS",
+  "createdAt": "2026-02-14T22:07:27.471915Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ソウルズ feat. suis from ヨルシカ",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_ソウルズ_feat._suis_from_ヨルシカ_WurtS.txt"
+    }
+  ]
+}
